@@ -1,2 +1,2 @@
 # prep-henry
-este es una prueba modulo 2
+este proyecto es una prueba de git hub de clonar y guardar repositorioi en escritorio local
